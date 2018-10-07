@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ModeleAnalizyDanych_P1", "ModeleAnalizyDanych_P1\ModeleAnalizyDanych_P1.dtproj", "{9973C2DA-DE0A-4CB8-A650-33EFFD4D2723}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9A4BFC7-8BD6-46A1-B1B1-6E8ECBFE6A66}"
+	ProjectSection(SolutionItems) = preProject
+		TestTextFile.txt = TestTextFile.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
